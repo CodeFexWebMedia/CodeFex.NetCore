@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeFex.NetCore", "CodeFex.NetCore\CodeFex.NetCore.csproj", "{2734C5F2-44AB-4EB1-8817-F6DE576F87ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6B98916C-CE52-4039-A4C9-82B8308EEC11}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2734C5F2-44AB-4EB1-8817-F6DE576F87ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2734C5F2-44AB-4EB1-8817-F6DE576F87ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2734C5F2-44AB-4EB1-8817-F6DE576F87ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2734C5F2-44AB-4EB1-8817-F6DE576F87ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12F565E3-10DA-4170-A3D2-4AB01FDBEAF1}
+	EndGlobalSection
+EndGlobal
